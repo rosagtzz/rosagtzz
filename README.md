@@ -1,7 +1,7 @@
-### hellou 🪩
-- business engineer
-- entrepeneur
-- digital creator
+### hellouu
+- 💻 majoring in business engineer
+- 📌 entrepeneur
+- ✨ digital creator
 
 <!--
 **rosagtzz/rosagtzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
