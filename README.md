@@ -1,4 +1,4 @@
-### Hellou amiguitos <3
+### hellou 🪩
 
 <!--
 **rosagtzz/rosagtzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
